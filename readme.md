@@ -6,7 +6,7 @@ A matrix style code rain generator created in HTML5 canvas with typescript. Just
 
 ![Screenshot](screenshot.gif)
 
-## [Live Demo](https://kp.id.lv/code-rain/)
+## [Live Demo](https://code-rain.netlify.app/)
 
 ## To run
 
